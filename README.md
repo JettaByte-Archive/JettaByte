@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?text=Jetta%Byte)
-
 ### JettaByte = "ingpungya"
 
 
