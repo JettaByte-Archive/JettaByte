@@ -10,6 +10,7 @@
 - 😄 Pronouns : ingpungya
 - ⚡ Fun fact : Yottabyte!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JettaByte&show_icons=true&theme=dark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=JettaByte&show_icons=true&theme=gradient)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JettaByte&layout=compact&theme=gradient)](https://github.com/anuraghazra/github-readme-stats)
 
 
